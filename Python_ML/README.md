@@ -24,6 +24,7 @@ Material de apoio:
     - Exemplos com Python: [cálculo integral](https://github.com/ysraell/examples/tree/master/Monte_Carlo) e [cálculo do $\pi$](https://github.com/ysraell/examples/blob/master/Classical_Problems_CS_wPython/1.4.ipynb).  
     - [Understand Random Forest Algorithms With Examples (Updated 2023).](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)  
     - [The Basics of Decision Trees.](https://medium.datadriveninvestor.com/the-basics-of-decision-trees-e5837cc2aba7)  
+    - [Laboratory of Decision Tree and Random Forest.](https://github.com/ysraell/random-forest-lab)  
 
 ### Dia 3:
 

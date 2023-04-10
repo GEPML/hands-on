@@ -1,12 +1,12 @@
 # Hands-on: Python e ML com Random Forest
 
-Prática (hands-on) de Python com aprendizado de máquina (*Machine Learning*) com Random Forest. O objetivo principal é adicionar um novo recurso (*feature*) na implementação de um Random Forest modificado: `random-forest-mc`. Esse recurso é para predizer valores faltantes utilizando as árvores de decisão.
+Prática (hands-on) de Python e aprendizado de máquina (*Machine Learning*) com Random Forest. O objetivo principal é adicionar um novo recurso (*feature*) na implementação de um Random Forest modificado: `random-forest-mc`. Esse recurso é para predizer valores faltantes utilizando as árvores de decisão.
 
 ## Cronograma
 
 O dia 1 serve para quem usa Windows e precisa de ajuda para configurar um ambiente basedo em container, assim pode-se obter um mesmo ambiente que seja invariante ao computador do usuário. Para usuários Linux, o dia 1 pode ser ignorado. O dia 2 serve de base para o dia 3, sendo o dia 1 opcional.
 
-São previstas no total 3 encontros de 2 horas e 30 min cada, com intervalo de 30 minnutos.
+São previstos no total 3 encontros de 2 horas e 30 min cada, com intervalo de 30 minnutos.
 
 ### Dia 1:
 
